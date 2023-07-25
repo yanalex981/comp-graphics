@@ -3,9 +3,10 @@
 //    date: Fri, Apr 5, 2019
 // purpose: ray trace a scene of generic objects
 
+#define _USE_MATH_DEFINES
+#include <cmath>
 #include <iostream>
 #include <algorithm>
-#include <cmath>
 #include <vector>
 #include <utility>
 #include <limits>

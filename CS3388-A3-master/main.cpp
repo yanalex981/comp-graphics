@@ -3,8 +3,9 @@
 //    date: Thu, Mar 18, 2019
 // purpose: render shaded 3D geometry
 
-#include <iostream>
+#define _USE_MATH_DEFINES
 #include <cmath>
+#include <iostream>
 #include <vector>
 #include <tuple>
 #include <chrono>

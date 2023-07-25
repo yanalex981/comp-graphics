@@ -3,6 +3,7 @@
 
 #include "matrix.hpp"
 #include <iostream>
+#include <vector>
 
 template<typename T, size_t N>
 using vec = matrix<T, N, 1>;

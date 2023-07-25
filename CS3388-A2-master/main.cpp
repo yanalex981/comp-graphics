@@ -3,8 +3,10 @@
 //    date: Sun, Feb 24, 2019
 // purpose: render 3D geometry
 
-#include <iostream>
+#define _USE_MATH_DEFINES
 #include <cmath>
+
+#include <iostream>
 #include <vector>
 #include <tuple>
 #include <chrono>

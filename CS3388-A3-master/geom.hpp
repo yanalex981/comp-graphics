@@ -2,6 +2,7 @@
 #define GEOM_HPP
 
 #include <cstddef>
+#define _USE_MATH_DEFINES
 #include <cmath>
 #include <iostream>
 

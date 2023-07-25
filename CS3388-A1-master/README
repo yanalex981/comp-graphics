@@ -1,2 +1,0 @@
-Compiles with clang on Mac OS 10.14
-Seems to compile with g++ 8.2, but doesn't link, probably because I installed SFML dylibs for clang and not g++

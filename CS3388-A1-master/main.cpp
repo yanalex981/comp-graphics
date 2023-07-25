@@ -3,6 +3,7 @@
 //    date: Mon, Jan 21, 2019
 // purpose: draw lines using Bresenham's algorithm, display graphics using the SFML library
 
+#define _USE_MATH_DEFINES
 #include <iostream>
 #include <cmath>
 #include <vector>

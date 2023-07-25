@@ -2,7 +2,6 @@
 #define GEOM_HPP
 
 #include <cstddef>
-#include <cmath>
 
 #include "vector.hpp"
 
